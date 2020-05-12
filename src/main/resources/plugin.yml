@@ -1,5 +1,5 @@
 name: Random
-version: 1.0
+version: 1.0-SNAPSHOT
 main: tk.pshub.random.plugin.Random
 commands:
   random:
