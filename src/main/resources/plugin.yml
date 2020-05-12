@@ -1,0 +1,8 @@
+name: Random
+version: 1.0
+main: tk.pshub.random.plugin.Random
+commands:
+  random:
+    description: 랜덤 명령어입니다.
+    usage: /random <min> <max> <command>
+    permission: random.command

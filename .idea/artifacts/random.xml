@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="random">
+    <output-path>$PROJECT_DIR$/../../놀이터/파랑이놀이터/plugins</output-path>
+    <root id="archive" name="random.jar">
+      <element id="module-output" name="random.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
